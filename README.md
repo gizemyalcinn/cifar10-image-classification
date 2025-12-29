@@ -79,7 +79,13 @@ Modelin başarımı test veri seti üzerinde aşağıdaki metrikler ile ölçül
 
 
 ---
+## Notlar
 
+Bu model yalnızca CIFAR-10 sınıfları ile eğitilmiştir.
+Bu nedenle tamamen alakasız (OOD) görsellerde en yakın sınıfa
+zorunlu tahmin yapabilir. Güven skoru bu durumu yorumlamaya yardımcı olur.
+
+---
 
 
 ## Kurulum ve Çalıştırma
