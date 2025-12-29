@@ -1,4 +1,4 @@
-\# CIFAR-10 Veri Seti ile Görüntü Sınıflandırma
+# CIFAR-10 Veri Seti ile Görüntü Sınıflandırma
 
 
 
@@ -26,7 +26,7 @@ gösterilmektedir.
 
 
 
-\## Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 \- Python
 
@@ -44,7 +44,7 @@ gösterilmektedir.
 
 
 
-\## Metrikler (Test Set)
+## Metrikler (Test Set)
 
 Modelin başarımı test veri seti üzerinde aşağıdaki metrikler ile ölçülmüştür:
 
@@ -62,7 +62,7 @@ Modelin başarımı test veri seti üzerinde aşağıdaki metrikler ile ölçül
 
 
 
-\## Arayüz Ekran Görüntüsü
+## Arayüz Ekran Görüntüsü
 
 ![Demo](assets/demo.png)
 
@@ -72,7 +72,7 @@ Modelin başarımı test veri seti üzerinde aşağıdaki metrikler ile ölçül
 
 
 
-\## Demo Video
+## Demo Video
 
 assets/demo.mp4
 
@@ -82,7 +82,7 @@ assets/demo.mp4
 
 
 
-\## Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 
 
 
