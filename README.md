@@ -62,9 +62,9 @@ Modelin başarımı test veri seti üzerinde aşağıdaki metrikler ile ölçül
 
 
 
-\## Arayüz Ekran Görüntüsü
+## Arayüz Ekran Görüntüsü
 
-!\[Demo](assets/demo.png)
+![Demo](assets/demo.png)
 
 
 
